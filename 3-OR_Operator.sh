@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# I will use the or operators in bash using different forms!
+# I will use the or operators in bash using the old form!
 
 age=$1
 
